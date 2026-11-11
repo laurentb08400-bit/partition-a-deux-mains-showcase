@@ -28,3 +28,4 @@ RETEX handovers record validated results, unresolved issues, rejected alternativ
 The gallery contains **only the cover and boards 01–11** (including 05A and 05B): 13 physical pages from a previously approved edition of *La Griffe Noire*. The current comic is being rebuilt. No complete manuscript, full canon, raw conversations, infrastructure configuration, personal network addresses, credentials or private repository files are disclosed. The Linux guide is a curated public edition, not a raw export of the private master document.
 
 © Laurent B. 2026. Story and illustrations: all rights reserved. Publication does not grant a general reuse licence.
+
